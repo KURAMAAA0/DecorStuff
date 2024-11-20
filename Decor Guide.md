@@ -33,6 +33,8 @@ In this guide, you will learn how to create a 2D animated **Effect Decoration**,
 
 # Project Setup and Limitations
 
+DOWNLOAD THE DECORATION TEMPLATE **[HERE](https://raw.githubusercontent.com/decor-discord/.github/main/assets/template.png)**
+
 Before starting to make your decoration, you have to set your project up correctly and know the limitations of decorations in Decor.
 
 Your exported decoration should be **under 3MB** and have **square dimensions**, and the format must be **APNG** *(file extension will be **.png** no matter if it’s a still image or an animation\!).* I recommend [https://ezgif.com/apng-maker](https://ezgif.com/apng-maker) to convert your images and animations to the **APNG** format.
