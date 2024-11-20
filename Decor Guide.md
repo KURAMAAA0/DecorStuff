@@ -1,6 +1,6 @@
 # Decor Guide: **Creating a Decoration**
 
-## *Guide by @kurama0*
+### *Guide by @kurama0*
 
 ![][image1]
 
