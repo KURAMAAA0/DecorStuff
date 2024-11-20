@@ -62,13 +62,15 @@ I first started by importing the template and drawing lines to decide the path o
 
 I made a rough version of the animation to turn my idea into something I can see.
 
-## - IMG PLACEHOLDER
+## - GIF PLACEHOLDER
 
 Then, I made the final animation and added color.
 
-## - IMG PLACEHOLDER
+## - GIF PLACEHOLDER
 
 Finally, I threw the animation into After Effects for the post-process improvements and it’s done\!
+
+## - GIF PLACEHOLDER
 
 # Apparel Decoration
 
