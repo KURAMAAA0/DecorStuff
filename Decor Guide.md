@@ -124,6 +124,8 @@ Now you can go to [https://ezgif.com/remove-background](https://ezgif.com/remove
 
 https://github.com/user-attachments/assets/f895339e-32d2-4d65-8e7e-11c90b33e231
 
+*In case you have black in your gif, you can add a color like green or purple under your gif and border, then in ezgif check "custom (HEX)", click the white rectangle, click the eyedropper icon and choose your background color.*
+
 
 
 **Note:** Feel free to suggest additions or modifications to this guide by mentioning me (@kurama0) in the official [Decor Discord server](https://discord.gg/dXp2SdxDcP)\!
