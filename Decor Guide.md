@@ -68,7 +68,7 @@ Then, I made the final animation and added color.
 
 ## - GIF PLACEHOLDER
 
-Finally, I threw the animation into After Effects for the post-process improvements and it’s done\!
+Finally, I threw the animation into After Effects for the post-process improvements, exported a PNG sequence, converted it to the **APNG** format, and it’s done\!
 
 ## - GIF PLACEHOLDER
 
