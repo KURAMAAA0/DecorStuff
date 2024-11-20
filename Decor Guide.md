@@ -112,7 +112,7 @@ If you have correctly read the [Decor Guidelines](https://github.com/decor-disco
 ![decoavatarborder](https://github.com/user-attachments/assets/4b5470c5-a4af-4d24-a0c6-f41bc7464e3f)
 
 
-After finding the transparent gif you want, let’s go to [Clipchamp](https://app.clipchamp.com/). First, import the template, border, and gif of your character. Add the template, then drag and drop the border **ABOVE** the template, then drag and drop the gif of your character **ABOVE** the border. Shorten the layers to change the length of the animation. Move and resize the character so it doesn’t cover the red-ish circle. *(If you’re having trouble with moving the layers, try refreshing the page each time it stops working, it’s a bit finicky).*
+After finding the transparent gif you want, let’s go to [Clipchamp](https://app.clipchamp.com/). First, import the template, border, and gif of your character. Add the template, then drag and drop the border **ABOVE** the template, and finally drag and drop the gif of your character **ABOVE** the border. Shorten the layers to change the length of the animation. Move and resize the character so it doesn’t cover the red-ish circle. *(If you’re having trouble with moving the layers, try refreshing the page each time it stops working, it’s a bit finicky).*
 
 Once you’re happy with how it looks, delete the template layer and export as a gif\!
 
