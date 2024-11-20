@@ -17,8 +17,6 @@
 
 This is NOT an official guide, nor was it written by a member of the Decor team. I am simply a user.
 
-Navigation:
-
 Before starting, you will need to decide which type of decoration you want to make. You can of course mix them up\!
 
 I will divide decorations into different categories, all with their unique traits and charm:
