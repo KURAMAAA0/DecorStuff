@@ -41,9 +41,10 @@ For **animated decorations**, you can choose a frame rate of up to 60 FPS, and t
 
 If you decide to animate your decoration at 60 FPS, be aware that the file size will be difficult to reduce\! Also, the first frame will be what shows up by default, so I recommend making your profile picture mostly visible at first.
 
-Most importantly, don’t be scared to **scale down** your finished decoration to make it under 3MB, and look at it zoomed-out to see if its content is easily distinguishable at a small scale\!
-
 In the template, the blue “Status” circle is where your status icon will be, keep in mind that your status icon will always be OVER your decoration\! So better avoid placing stuff there.
+
+And most importantly, don’t be scared to **scale down** your finished decoration to make it under 3MB, and look at it zoomed-out to see if its content is easily distinguishable at a small scale\!
+
 
 # Effect Decoration
 
