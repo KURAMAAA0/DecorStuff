@@ -33,7 +33,7 @@ In this guide, you will learn how to create a 2D animated **Effect Decoration**,
 
 # Project Setup and Limitations
 
-DOWNLOAD THE DECORATION TEMPLATE **[HERE](https://raw.githubusercontent.com/decor-discord/.github/main/assets/template.png)**
+## DOWNLOAD THE DECORATION TEMPLATE **[HERE](https://raw.githubusercontent.com/decor-discord/.github/main/assets/template.png)**
 
 Before starting to make your decoration, you have to set your project up correctly and know the limitations of decorations in Decor.
 
